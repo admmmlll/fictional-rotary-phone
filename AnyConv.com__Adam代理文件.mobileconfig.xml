@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&#13;</para>
+  <para>&lt;!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"&gt;&#13;</para>
+  <para>&lt;plist version="1.0"&gt;&#13;</para>
+  <para>&lt;dict&gt;&#13;</para>
+  <para>        &lt;key&gt;PayloadContent&lt;/key&gt;&#13;</para>
+  <para>        &lt;array&gt;&#13;</para>
+  <para>                &lt;dict&gt;&#13;</para>
+  <para>                        &lt;key&gt;AutoJoin&lt;/key&gt;&#13;</para>
+  <para>                        &lt;true/&gt;&#13;</para>
+  <para>                        &lt;key&gt;CaptiveBypass&lt;/key&gt;&#13;</para>
+  <para>                        &lt;false/&gt;&#13;</para>
+  <para>                        &lt;key&gt;DisableAssociationMACRandomization&lt;/key&gt;&#13;</para>
+  <para>                        &lt;false/&gt;&#13;</para>
+  <para>                        &lt;key&gt;EncryptionType&lt;/key&gt;&#13;</para>
+  <para>                        &lt;string&gt;WPA&lt;/string&gt;&#13;</para>
+  <para>                        &lt;key&gt;HIDDEN_NETWORK&lt;/key&gt;&#13;</para>
+  <para>                        &lt;false/&gt;&#13;</para>
+  <para>                        &lt;key&gt;IsHotspot&lt;/key&gt;&#13;</para>
+  <para>                        &lt;false/&gt;&#13;</para>
+  <para>                        &lt;key&gt;Password&lt;/key&gt;&#13;</para>
+  <para>                        &lt;string&gt;lsy22317080&lt;/string&gt;&#13;</para>
+  <para>                        &lt;key&gt;PayloadDescription&lt;/key&gt;&#13;</para>
+  <para>                        &lt;string&gt;éç½® Wi-Fi è®¾ç½®&lt;/string&gt;&#13;</para>
+  <para>                        &lt;key&gt;PayloadDisplayName&lt;/key&gt;&#13;</para>
+  <para>                        &lt;string&gt;Wi-Fi&lt;/string&gt;&#13;</para>
+  <para>                        &lt;key&gt;PayloadIdentifier&lt;/key&gt;&#13;</para>
+  <para>                        &lt;string&gt;com.apple.wifi.managed.5D55F254-13FE-4F56-AADF-BD0B4C477345&lt;/string&gt;&#13;</para>
+  <para>                        &lt;key&gt;PayloadType&lt;/key&gt;&#13;</para>
+  <para>                        &lt;string&gt;com.apple.wifi.managed&lt;/string&gt;&#13;</para>
+  <para>                        &lt;key&gt;PayloadUUID&lt;/key&gt;&#13;</para>
+  <para>                        &lt;string&gt;5D55F254-13FE-4F56-AADF-BD0B4C477345&lt;/string&gt;&#13;</para>
+  <para>                        &lt;key&gt;PayloadVersion&lt;/key&gt;&#13;</para>
+  <para>                        &lt;integer&gt;1&lt;/integer&gt;&#13;</para>
+  <para>                        &lt;key&gt;ProxyServer&lt;/key&gt;&#13;</para>
+  <para>                        &lt;string&gt;61.224.77.4&lt;/string&gt;&#13;</para>
+  <para>                        &lt;key&gt;ProxyServerPort&lt;/key&gt;&#13;</para>
+  <para>                        &lt;integer&gt;10809&lt;/integer&gt;&#13;</para>
+  <para>                        &lt;key&gt;ProxyType&lt;/key&gt;&#13;</para>
+  <para>                        &lt;string&gt;Manual&lt;/string&gt;&#13;</para>
+  <para>                        &lt;key&gt;SSID_STR&lt;/key&gt;&#13;</para>
+  <para>                        &lt;string&gt;ABCDE&lt;/string&gt;&#13;</para>
+  <para>                &lt;/dict&gt;&#13;</para>
+  <para>        &lt;/array&gt;&#13;</para>
+  <para>        &lt;key&gt;PayloadDisplayName&lt;/key&gt;&#13;</para>
+  <para>        &lt;string&gt;æç©ºçä»£çæä»¶&lt;/string&gt;&#13;</para>
+  <para>        &lt;key&gt;PayloadIdentifier&lt;/key&gt;&#13;</para>
+  <para>        &lt;string&gt;wudeiMac.BC9F759D-DB99-4123-8605-68C1EB0DBFAF&lt;/string&gt;&#13;</para>
+  <para>        &lt;key&gt;PayloadRemovalDisallowed&lt;/key&gt;&#13;</para>
+  <para>        &lt;false/&gt;&#13;</para>
+  <para>        &lt;key&gt;PayloadType&lt;/key&gt;&#13;</para>
+  <para>        &lt;string&gt;Configuration&lt;/string&gt;&#13;</para>
+  <para>        &lt;key&gt;PayloadUUID&lt;/key&gt;&#13;</para>
+  <para>        &lt;string&gt;5DD13570-9508-461A-B91C-327487D35681&lt;/string&gt;&#13;</para>
+  <para>        &lt;key&gt;PayloadVersion&lt;/key&gt;&#13;</para>
+  <para>        &lt;integer&gt;1&lt;/integer&gt;&#13;</para>
+  <para>&lt;/dict&gt;&#13;</para>
+  <para>&lt;/plist&gt;&#13;</para>
+</article>
