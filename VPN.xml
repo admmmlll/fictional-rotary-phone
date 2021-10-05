@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>&lt;?xml version="1.0" encoding="UTF-8"?&gt;</para>
+  <para>&lt;!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"&gt;</para>
+  <para>&lt;plist version="1.0"&gt;</para>
+  <para>&lt;dict&gt;</para>
+  <para>        &lt;key&gt;PayloadContent&lt;/key&gt;</para>
+  <para>        &lt;array&gt;</para>
+  <para>                &lt;dict&gt;</para>
+  <para>                        &lt;key&gt;AutoJoin&lt;/key&gt;</para>
+  <para>                        &lt;true/&gt;</para>
+  <para>                        &lt;key&gt;CaptiveBypass&lt;/key&gt;</para>
+  <para>                        &lt;false/&gt;</para>
+  <para>                        &lt;key&gt;DisableAssociationMACRandomization&lt;/key&gt;</para>
+  <para>                        &lt;false/&gt;</para>
+  <para>                        &lt;key&gt;EncryptionType&lt;/key&gt;</para>
+  <para>                        &lt;string&gt;WPA&lt;/string&gt;</para>
+  <para>                        &lt;key&gt;HIDDEN_NETWORK&lt;/key&gt;</para>
+  <para>                        &lt;false/&gt;</para>
+  <para>                        &lt;key&gt;IsHotspot&lt;/key&gt;</para>
+  <para>                        &lt;false/&gt;</para>
+  <para>                        &lt;key&gt;Password&lt;/key&gt;</para>
+  <para>                        &lt;string&gt;lsy22317080&lt;/string&gt;</para>
+  <para>                        &lt;key&gt;PayloadDescription&lt;/key&gt;</para>
+  <para>                        &lt;string&gt;éç½® Wi-Fi è®¾ç½®&lt;/string&gt;</para>
+  <para>                        &lt;key&gt;PayloadDisplayName&lt;/key&gt;</para>
+  <para>                        &lt;string&gt;Wi-Fi&lt;/string&gt;</para>
+  <para>                        &lt;key&gt;PayloadIdentifier&lt;/key&gt;</para>
+  <para>                        &lt;string&gt;com.apple.wifi.managed.5D55F254-13FE-4F56-AADF-BD0B4C477345&lt;/string&gt;</para>
+  <para>                        &lt;key&gt;PayloadType&lt;/key&gt;</para>
+  <para>                        &lt;string&gt;com.apple.wifi.managed&lt;/string&gt;</para>
+  <para>                        &lt;key&gt;PayloadUUID&lt;/key&gt;</para>
+  <para>                        &lt;string&gt;5D55F254-13FE-4F56-AADF-BD0B4C477345&lt;/string&gt;</para>
+  <para>                        &lt;key&gt;PayloadVersion&lt;/key&gt;</para>
+  <para>                        &lt;integer&gt;1&lt;/integer&gt;</para>
+  <para>                        &lt;key&gt;ProxyServer&lt;/key&gt;</para>
+  <para>                        &lt;string&gt;61.224.77.4&lt;/string&gt;</para>
+  <para>                        &lt;key&gt;ProxyServerPort&lt;/key&gt;</para>
+  <para>                        &lt;integer&gt;10809&lt;/integer&gt;</para>
+  <para>                        &lt;key&gt;ProxyType&lt;/key&gt;</para>
+  <para>                        &lt;string&gt;Manual&lt;/string&gt;</para>
+  <para>                        &lt;key&gt;SSID_STR&lt;/key&gt;</para>
+  <para>                        &lt;string&gt;ABCDE&lt;/string&gt;</para>
+  <para>                &lt;/dict&gt;</para>
+  <para>        &lt;/array&gt;</para>
+  <para>        &lt;key&gt;PayloadDisplayName&lt;/key&gt;</para>
+  <para>        &lt;string&gt;VPN</para>
+  <para>&lt;/string&gt;</para>
+  <para>        &lt;key&gt;PayloadIdentifier&lt;/key&gt;</para>
+  <para>        &lt;string&gt;wudeiMac.BC9F759D-DB99-4123-8605-68C1EB0DBFAF&lt;/string&gt;</para>
+  <para>        &lt;key&gt;PayloadRemovalDisallowed&lt;/key&gt;</para>
+  <para>        &lt;false/&gt;</para>
+  <para>        &lt;key&gt;PayloadType&lt;/key&gt;</para>
+  <para>        &lt;string&gt;Configuration&lt;/string&gt;</para>
+  <para>        &lt;key&gt;PayloadUUID&lt;/key&gt;</para>
+  <para>        &lt;string&gt;5DD13570-9508-461A-B91C-327487D35681&lt;/string&gt;</para>
+  <para>        &lt;key&gt;PayloadVersion&lt;/key&gt;</para>
+  <para>        &lt;integer&gt;1&lt;/integer&gt;</para>
+  <para>&lt;/dict&gt;</para>
+  <para>&lt;/plist&gt;</para>
+</article>
